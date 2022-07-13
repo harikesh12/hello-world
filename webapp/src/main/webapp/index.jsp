@@ -31,7 +31,7 @@
     <p>Already got an account? Good to know that <a href="#">Sign in</a>.</p>
   </div>
 
-   <h1> Thankyou, Happy Learning !! </h1>
+   <h1> Thankyou, Happy Learning !!, Doing some changes to Verify poll SCM feature </h1>
 
   
 </form>
